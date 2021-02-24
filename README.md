@@ -1,11 +1,11 @@
 Text generation with LSTM
 ================
 
-## Implementing character-level LSTM text generation for lyrical starting point generation
+## Implementing character-level LSTM text models for lyrical starting point generation
 
 Here we’ll demonstrate a proof-of-concept regarding lyric generation via
-lyric seed after training a LSTM on a corpus folk lyrics. The first
-thing we start with is about a 100,000 lyrics pulled from a folk song
+lyric seed after training a LSTM on a corpus of folk lyrics. The first
+thing we start with is about 100,000 lyrics pulled from a folk song
 database. In the future this can be tailored ot americana, appalacia,
 bluegrass, etc. The language model ideally will learn a model of the
 writing style on which it was trained.
